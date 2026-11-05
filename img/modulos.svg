@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="250" viewBox="0 0 500 250">
+
+    <rect width="500" height="250" rx="20" fill="#24292e"></rect>
+
+    <text x="250" y="100" font-family="Arial" font-size="36" text-anchor="middle" fill="white">
+        DESARROLLO WEB
+    </text>
+
+    <text x="250" y="155" font-family="Arial" font-size="25" text-anchor="middle" fill="#58a6ff">
+        HTML - CSS - JS
+    </text>
+</svg>
